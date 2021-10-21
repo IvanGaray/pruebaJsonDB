@@ -5,11 +5,7 @@
         "description": "Diez años después de la operación Snake Eater, y 4 años después de los eventos de San Jerónimo de Portable Ops, Naked Snake (quien mantiene el título de Big Boss), vive ahora en Costa Rica, Puerto Limón, con su propia empresa de mercenarios llamada Millitaires Sans Frontières o MSF.",
         "price": 30058,
         "image": "https://s2.gaming-cdn.com/images/products/7900/orig/juego-steam-metal-gear-solid-remake-cover.jpg",
-        "category": "PC",
-        "rating": {
-            "rate": 3.9,
-            "count": 120
-        }
+        "category": "PC"
     },
     {
         "id": 1002,
@@ -17,11 +13,8 @@
         "description": "FOXHOUND, una unidad genéticamente mejorada de fuerzas especiales,​ armó un levantamiento armado en una isla remota ubicada en el archipiélago Fox de Alaska.​ Esta isla, con nombre en código Shadow Moses, es el sitio de una instalación de almacenamiento de armas nucleares.36​34​ La unidad terrorista, encabezada por un mercenario conocido como Liquid Snake, tomó el control de un tanque bípedo con capacidad nuclear llamado Metal Gear REX, y amenazan al Gobierno de los Estados Unidos con una represalia nuclear, si no reciben en menos de 24 horas los restos del soldado legendario Big Boss.",
         "price": 2500,
         "image": "https://media.vandal.net/ivandal/1200x630/181/metal-gear-solid-201961220192328_1.jpg",
-        "category": "PC",
-        "rating": {
-            "rate": 4.1,
-            "count": 259
-        }
+        "category": "PC"
+        
     },
     {
         "id": 1003,
@@ -29,11 +22,7 @@
         "description": "Primera parte de la aventura de sígilo por primera vez en mundo abierto en la saga Metal Gear",
         "price": 17000,
         "image": "https://media.vandal.net/ivandal/1200x630/22733/metal-gear-solid-v-ground-zeroes-2014317121650_1.jpg",
-        "category": "PC",
-        "rating": {
-            "rate": 4.7,
-            "count": 500
-        }
+        "category": "PC"
     },
     {
         "id": 1004,
@@ -41,11 +30,7 @@
         "description": "Segunda parte de la aventura de sígilo por primera vez en el mundo abierto de la saga Metal Gear",
         "price": 3250,
         "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0205/dyvo9eGUf7WTZx49eTpQyDuL.png",
-        "category": "PC",
-        "rating": {
-            "rate": 2.1,
-            "count": 430
-        }
+        "category": "PC"
     },
     {
         "id": 1001,
@@ -53,11 +38,8 @@
         "description": "Diez años después de la operación Snake Eater, y 4 años después de los eventos de San Jerónimo de Portable Ops, Naked Snake (quien mantiene el título de Big Boss), vive ahora en Costa Rica, Puerto Limón, con su propia empresa de mercenarios llamada Millitaires Sans Frontières o MSF.",
         "price": 30058,
         "image": "https://www.necxus.com.ar/products_image/12720/1000x1000_1.jpg",
-        "category": "PlayStation",
-        "rating": {
-            "rate": 4.6,
-            "count": 400
-        }
+        "category": "PlayStation"
+        
     },
     {
         "id": 1002,
@@ -65,10 +47,6 @@
         "description": "FOXHOUND, una unidad genéticamente mejorada de fuerzas especiales,​ armó un levantamiento armado en una isla remota ubicada en el archipiélago Fox de Alaska.​ Esta isla, con nombre en código Shadow Moses, es el sitio de una instalación de almacenamiento de armas nucleares.36​34​ La unidad terrorista, encabezada por un mercenario conocido como Liquid Snake, tomó el control de un tanque bípedo con capacidad nuclear llamado Metal Gear REX, y amenazan al Gobierno de los Estados Unidos con una represalia nuclear, si no reciben en menos de 24 horas los restos del soldado legendario Big Boss.",
         "price": 2500,
         "image": "https://www.necxus.com.ar/products_image/12720/1000x1000_1.jpg",
-        "category": "PlayStation",
-        "rating": {
-            "rate": 3.9,
-            "count": 70
-        }
+        "category": "PlayStation"
     }
 ]
